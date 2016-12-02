@@ -91,7 +91,7 @@ if ((fromMichigan === "No") || (fromMichigan === "NO") || (fromMichigan === "no"
                         parseFloat(((annualIncome - 415050) * 0.396) + 120529.75).toFixed(2)
                     );
                 } else {
-                    var FileReader = "Oop! I think something went wrong!";
+                    var FileReader = "Oops! I think something went wrong!";
                 }
             } else if (year === "2015") {
                 if (annualIncome === 0) {
@@ -125,7 +125,7 @@ if ((fromMichigan === "No") || (fromMichigan === "NO") || (fromMichigan === "no"
                         parseFloat(((annualIncome - 413200) * 0.396) + 119996.25).toFixed(2)
                     );
                 } else {
-                    var FileReader = "Oop! I think something went wrong!";
+                    var FileReader = "Oops! I think something went wrong!";
                 }
             } else {
                 var year = "The year you\'ve requested is not currently Supported! Please check back later!";
