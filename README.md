@@ -2,8 +2,9 @@
 
 ## About this Calculator
 
-I have long been a fan of excel spreadsheets, and for years I found myself calculating income tax by using them. I decided I would instead like to create a web application which can calculate your income tax for you!
-asdf
+I have long been a fan of excel spreadsheets, and for years I found myself calculating income tax by using them.<br>
+I decided I would instead like to create a web application which can calculate your income tax for you!
+
 ## Current Limitations
 
 » Since the web app is not yet complete, you will need to run this chunk of JavaScript in your browser's console<br>
