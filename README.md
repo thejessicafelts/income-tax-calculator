@@ -10,7 +10,7 @@ I decided I would instead like to create a web application which can calculate y
 » Since the web app is not yet complete, you will need to run this chunk of JavaScript in your browser's console<br>
 » This program will only accept submissions from Michigan Residents<br>
 » This program will only accept submissions from those filing as "Single"<br>
-» This probram will NOT accept submissions from those who are Self Employeed<br>
+» This program will NOT accept submissions from those who are Self Employeed<br>
 
 Please refer to the Udates section below, for all upcoming changes and advancements.
 
