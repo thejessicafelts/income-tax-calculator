@@ -16,7 +16,7 @@ Please refer to the Udates section below, for all upcoming changes and advanceme
 
 ## Updates 
 
-I am working hard to release an web version of this application, allowing all visitors to use the calcuator, as opposed to just those familiar with the JavaScript Console. The following are a list of upcoming updates, which will be released soon.
+I am working hard to release an web version of this application, allowing all visitors to use the calcuator, as opposed to just those familiar with the JavaScript Console. The following are a list of updates, which will be released soon.
 
 » Web Application release<br>
 » Support for multiple filing years<br>
