@@ -17,11 +17,10 @@ Please refer to the Udates section below, for all upcoming changes and advanceme
 
 I am working hard to release an in-browser version of this application, allowing all visitors to use the calcuator, as opposed to just those familiar with the JavaScript Console. The following are a list of upcoming updates, which will be released soon.
 
-» Web version of the application to be released<br>
-» Support for multiple filing year<br>
+» Web Application release<br>
+» Support for multiple filing years<br>
 » Support for multiple states of residence and employment<br>
 » Support for multiple cities of residence and employment<br>
 » Support for filing status: Single, Married: Filing Jointly, Married: Filing Seperately, and Head of Household<br>
-» This program will only accept submissions from Michigan Residents<br>
-» This program will only accept submissions from those filing as "Single"<br>
-» This probram will NOT accept submissions from those who are Self Employeed<br>
+» Detailed results section, breaking down each income tax or withholdings category<br>
+» Ability to print results
