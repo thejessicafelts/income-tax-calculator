@@ -1,11 +1,11 @@
 # Income Tax Calculator
 
-## About this Calculator
+## About this Calculator:
 
 I have long been a fan of excel spreadsheets, and for years I found myself calculating income tax by using them.<br>
 I decided I would instead like to create a web application which can calculate your income tax for you!
 
-## Current Limitations
+## Current Limitations:
 
 » Since the web app is not yet complete, you will need to run this chunk of JavaScript in your browser's console<br>
 » This program will only accept submissions from Michigan Residents<br>
@@ -14,7 +14,7 @@ I decided I would instead like to create a web application which can calculate y
 
 Please refer to the Udates section below, for all upcoming changes and advancements.
 
-## Updates 
+## Updates:
 
 I am working hard to release an web version of this application, allowing all visitors to use the calcuator, as opposed to just those familiar with the JavaScript Console. The following are a list of updates, which will be released soon.
 
