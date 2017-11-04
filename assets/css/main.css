@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+#form {
+  margin: 125px auto 75px;
+  /*width: 400px;*/
+}
+
+#form .row .left,
+#form .row .right {
+  padding: 0px 25px;
+}
+
+i.fa-info-circle {
+  color: lightgrey;
+}
+i.fa-info-circle:hover {
+  color: darkgrey;
+  cursor: pointer;
+}
+
+form {
+  margin-bottom: 25px;
+}
+
+label.form-title {
+  font-weight: 700;
+}
+
+input#submitForm {
+  background: darkgrey;
+  color: white;
+  display: block;
+  margin: 35px auto 0;
+}
+input#submitForm:hover {
+  background: rgb(50,50,50);
+  cursor: pointer;
+}
