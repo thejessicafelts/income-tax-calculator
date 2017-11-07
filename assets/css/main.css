@@ -38,3 +38,22 @@ input#submitForm:hover {
   background: rgb(50,50,50);
   cursor: pointer;
 }
+
+input#resetForm {
+  display: none;
+}
+
+
+
+
+
+
+#form,
+input#submitForm {
+  display: block;
+}
+
+#results,
+input#resetForm {
+  display: none;
+}
