@@ -10,6 +10,7 @@
   <body>
     <?php include('partials/global/nav.php'); ?>
 
+    <!-- Form -->
     <div id="form" class="container">
 
         <div class="row">
@@ -98,12 +99,16 @@
           </div>
         </div>
 
-        <!-- Submit -->
-        <input type="button" id="submitForm" class="btn btn-lg form-submit" name="submit_tag" value="Submit" onclick="calculate();"/>
-
     </div>
 
+    <!-- Submit -->
+    <input type="button" id="submitForm" class="btn btn-lg form-submit" name="submit_tag" value="Submit" onclick="calculate();"/>
+
+    <!-- Results -->
     <div id="results" class="container"></div>
+
+    <!-- Reset -->
+    <input type="button" id="resetForm" class="btn btn-lg form-reset" name="reset_tag" value="Reset Form" onclick="reset();"/>
 
     <?php include('partials/head/scripts.php'); ?>
   </body>
