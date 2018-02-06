@@ -19,9 +19,10 @@ Please refer to the Udates section below, for all upcoming changes and advanceme
 I am working hard to release an web version of this application, allowing all visitors to use the calcuator, as opposed to just those familiar with the JavaScript Console. The following are a list of updates, which will be released soon.
 
 » Web Application release.<br>
-» Support for multiple filing years.<br>
+» Support for multiple filing years -- 2016, 2017, 2018 planned.<br>
 » Support for multiple states of residence and employment.<br>
 » Support for multiple cities of residence and employment.<br>
 » Support for filing status: Single, Married: Filing Jointly, Married: Filing Seperately, and Head of Household.<br>
+» Support for dependents and allowances.<br>
 » Detailed results section, breaking down each income tax or withholdings category.<br>
 » Ability to print results.
