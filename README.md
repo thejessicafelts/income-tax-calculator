@@ -26,3 +26,4 @@ I am working hard to release an web version of this application, allowing all vi
 » Support for dependents and allowances.<br>
 » Detailed results section, breaking down each income tax or withholdings category.<br>
 » Ability to print results.
+» Informational Section about Relevant Taxes (ie if you fill out that you're paying Michigan taxes, information about Michigan taxes will be available. Same idea with Local taaxes, where applicable).
