@@ -12,7 +12,7 @@ I decided I would instead like to create a web application which can calculate y
 » This program will only accept submissions from those filing as "Single"<br>
 » This program will NOT accept submissions from those who are Self Employeed<br>
 
-Please refer to the Udates section below, for all upcoming changes and advancements.
+Please refer to the Updates section below, for all upcoming changes and advancements.
 
 ## Updates:
 
